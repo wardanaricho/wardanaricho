@@ -58,7 +58,6 @@ while (curiosity == true) {
 
 ------------------------------------------------------------------------
 
-<div align="center">
-    > The main quest will wait.
-    > The side quests won't.
-</div>
+> The main quest will wait.
+>
+> The side quests won't.
