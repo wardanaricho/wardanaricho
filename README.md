@@ -1,9 +1,9 @@
-::: {align="center"}
+<div align="center">
 # 🎮 PLAYER STATUS: AFK
 
     SYSTEM INITIALIZED
     LOADING PLAYER DATA...
-:::
+</div>
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ while (curiosity == true) {
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
     > The main quest will wait.
     > The side quests won't.
-:::
+</div>
